@@ -1,0 +1,22 @@
+{
+  "name": "Accès QG — Therrien",
+  "short_name": "Accès QG",
+  "description": "Contrôle d'accès — QG Trois-Rivières",
+  "start_url": "/Acces-QG/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#00386B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://therrien-dsst.github.io/Acces-QG/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://therrien-dsst.github.io/Acces-QG/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
